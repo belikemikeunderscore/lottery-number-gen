@@ -22,6 +22,6 @@ int main() {
     cout << "Números: " << numeros[0] << " " << numeros[1] << " " << numeros[2] << " " << numeros[3] << " " << numeros[4] << "\nEstrelas: " << estrelas[0] << " " << estrelas[1];
     cout << "\nGerar outra chave? (s/n)";
     cin >> choice;
-    system("clear"); //não tenho a certeza se esta função funciona, testei em um compilador online (._.`) 
+    system("clear"); //não tenho a certeza se esta função funciona, testei em um compilador online
   }
 }
